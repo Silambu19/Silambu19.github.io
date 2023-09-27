@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product 1</title>
+    <link rel="stylesheet" href="product1.css">
+</head>
+<body>
+    <img class="image" src="background1.jpg" width="100%">
+    <div class="container-top">    
+        <div class="container">
+            
+            
+            <h1 class="product-1">COTTON ASTRONAUT SHIRTS</h1>
+            <form>
+                <label>Select quantity </label>
+                <input type="number">
+                <br>
+                <div class="btn">
+                <input class="btn1" type="submit">
+                </div>
+            </form>
+            
+        </div>
+        
+    </div>
+    <div class="cont">
+        <h1 style="color: #222;">Affrodable Products With</h1>
+        <h3 style="color:#222;">AMAZING DEALS</h3>
+    </div>
+</body>
+</html>
